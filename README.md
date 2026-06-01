@@ -115,7 +115,7 @@ If you have an idea or a product to build, let's talk. I respond fast. 🚀
   <a href="https://www.upwork.com/freelancers/~014c5ed5c8183a5f08">
     <img src="https://img.shields.io/badge/Hire%20me%20on%20Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="bibisakinabibi623@gmail.com">
     <img src="https://img.shields.io/badge/Send%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
